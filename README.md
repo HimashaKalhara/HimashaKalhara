@@ -31,7 +31,7 @@ const kaveesha = {
 ```
 
 - 🌱 Currently learning **Java**
-- 👨‍💻 All my projects at **[Kaveesha Nirmal](https://github.com/nirmalgnpk)**
+- 👨‍💻 All my projects at **[HimashaKalhara](https://github.com/HimashaKalhara))**
 - 👀 Interested in **Full Stack Development** & **Graphic Design**
 - 🎨 Skilled in **Photoshop, Illustrator, Canva** and more
 - 💡 Passionate about **branding, digital art & creative storytelling**
